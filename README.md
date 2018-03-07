@@ -1,0 +1,4 @@
+# ArcGISServerConfigParser
+ArcGISServer离线瓦片配置文件解析工具
+
+通过代码自动解析arcgisserver生成的conf.cdi、conf.xml两个配置文件，生成ol调用需要的projection、origin、resolutions、fullExtent等参数
